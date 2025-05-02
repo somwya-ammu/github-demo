@@ -2,3 +2,5 @@ first Git file created.
 successfully...
 
 trying to modify..
+
+some text added  3
