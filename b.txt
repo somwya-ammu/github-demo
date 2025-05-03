@@ -1,8 +1,6 @@
-First line of code
+Welcome to Git...
 
-Modifying to check...
-
-Added second line of code
+Its fun learning
 
 
 

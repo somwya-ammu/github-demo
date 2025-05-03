@@ -1,4 +1,2 @@
-first line of code.
-Modified line
-Added second line of code
-Added third line
+Welcome to Git ! from Vs code
+Git commands Status, Add, Init, Commit
