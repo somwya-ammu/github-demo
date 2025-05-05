@@ -1,0 +1,12 @@
+https://meet.google.com/dpz-exum-ktw
+
+
+1)git clone git clone https://their-remote-repo-url.git
+
+1)git remote add otheruser /path/to/other/user/repo
+2)git fetch otheruser
+3)git branch -r
+4)git checkout otheruser/branch-name -- path/to/file
+
+hasjdhfak
+
